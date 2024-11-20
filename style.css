@@ -1,0 +1,107 @@
+.wrapper {
+    border-radius: 40px;
+    background: rgb(52, 60, 86);
+    width: 1160px;
+    height: 833px;
+    margin: auto;
+
+}
+
+.newwrap {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.wrap {
+   width: 200px;
+   height: 40px;
+   border-radius: 30px;
+   background: rgb(255, 1, 1);
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.text {
+    height: 12px;
+    width: 110px;
+    color: white;
+    font-weight: 800;
+}
+
+.slime {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image {
+    margin: 50px 40px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.mem {
+    background-color: black;
+    width: 264px;
+    height: 118px;
+    border-radius: 40px;
+    background: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.texts {
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+
+.bighead {
+    display: flex;
+    margin-top: 25px;
+    justify-content: space-around;
+}
+
+.newthing {
+    display: flex;
+    align-items: center;
+}
+
+.paragraph {
+    height: 200px;
+    border-radius: 50px;
+    background: rgb(235, 22, 22);
+    width: 400px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.leric {
+    color: rgb(0, 0, 0);
+    background: rgb(97, 255, 0);
+    width: 300px;
+    height: 109px;
+    left: 270px;
+    right: 870px;
+    top: 657px;
+    bottom: 258px;
+
+}
+
+.newthing1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
